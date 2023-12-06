@@ -33,3 +33,32 @@ nav ul li a{
 .post{
     margin-inline: 51px;
 }
+
+/*article*/
+article{
+    width: 780px;
+    margin: 200px auto;
+}
+.arth2{
+    color: #4D4D4D;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 130%;
+    font-family: 'Poppins', sans-serif;
+}
+.articlep1, .articlep2{
+    color: #656565;
+    text-align: justify;
+    font-family: 'Nerko One', cursive;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 150%;
+}
+.articlep1{
+    margin-top: 60px;
+    margin-bottom: 52px;
+    }
+.articlep2{
+    line-height: 170%; 
+}
